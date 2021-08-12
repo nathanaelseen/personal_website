@@ -4,7 +4,7 @@ title: Analysis
 description: Some materials on mathematical analysis.
 ---
 
-Some materials on mathematical analysis.
+Here are some topics on mathematical analysis.
 
 ---
 
